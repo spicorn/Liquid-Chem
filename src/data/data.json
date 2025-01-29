@@ -1,0 +1,180 @@
+{
+  "Header": {
+    "title": "Liqui Chem",
+    "paragraph": "Best Manufacturer and Supplier."
+  },
+  "About": {
+    "paragraph": "Manufacturer and Supplier of Personal skin care products, Daily Use detergents, Automotive and Industrial Chemicals.",
+    "Why": [
+      "To provide a one stop shop that offers variety range of quality products.",
+      "To ensure the customer's needs and wants are satisfied through continuos production and improvements according to end user preference."
+    ],
+    "Why2": [
+      "To become one of the best companies that provides Industrial, Commercial and Domestic chemicals meeting the needs of the customers.",
+      "We aim to build reliable and sustainable relations with our customers with the sole purpose of archieving quality services."
+    ]
+  },
+  "Products": [
+    {
+      "title": "Detergents",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Dish washing liquids",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Body care products",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Pinegel",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Dish washing liquids",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Bubble Shower",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Degreasers",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Detergents",
+      "text": "Text about detergents???."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Degreasers",
+      "text": "Text about degreasers??."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Bubble shower",
+      "text": "Text about bubble showers??"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Dishwashing liquid",
+      "text": "Text about  dishwashing liquids??"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Pinegel",
+      "text": "Text about pineges??"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Body care products",
+      "text": "Text about body care products??"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "CBD HARARE",
+    "phone": "+263 78 8888 390",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Commitment",
+      "text": "Text to add here??"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Integrity",
+      "text": "Text to add here??"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Team Work",
+      "text": "Text to add here??"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Profesionalism",
+      "text": "Text to add here??"
+    }
+  ]
+}
