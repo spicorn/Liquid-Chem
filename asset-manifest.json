@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Africa-Liquid/static/css/main.ae42ac5f.css",
-    "main.js": "/Africa-Liquid/static/js/main.156f6aca.js",
-    "index.html": "/Africa-Liquid/index.html",
-    "main.ae42ac5f.css.map": "/Africa-Liquid/static/css/main.ae42ac5f.css.map",
-    "main.156f6aca.js.map": "/Africa-Liquid/static/js/main.156f6aca.js.map"
+    "main.css": "/Liquid-Chem/static/css/main.ae42ac5f.css",
+    "main.js": "/Liquid-Chem/static/js/main.156f6aca.js",
+    "index.html": "/Liquid-Chem/index.html",
+    "main.ae42ac5f.css.map": "/Liquid-Chem/static/css/main.ae42ac5f.css.map",
+    "main.156f6aca.js.map": "/Liquid-Chem/static/js/main.156f6aca.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
