@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Africa-Liqui-Chem/static/css/main.ae42ac5f.css",
+    "main.js": "/Africa-Liqui-Chem/static/js/main.156f6aca.js",
+    "index.html": "/Africa-Liqui-Chem/index.html",
+    "main.ae42ac5f.css.map": "/Africa-Liqui-Chem/static/css/main.ae42ac5f.css.map",
+    "main.156f6aca.js.map": "/Africa-Liqui-Chem/static/js/main.156f6aca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.156f6aca.js"
+  ]
+}
